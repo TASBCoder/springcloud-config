@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 config:
-  info: main version=1
-=======
-dev.yaml
->>>>>>> 8bc0ac08ca80971db145542b7d5d28f4423d10f5
+  info: main version=1 test
